@@ -23,5 +23,5 @@ many YouTube tutorials that were invaluable.
 My next steps are to put together a complete prototpye. I am looking into 3D printing services for the enclosure and PCB manufacturing houses for the PCB.
 I have also created a basic bill of materials, using Digikey to source components. 
 
-I have found this project my most rewarding so far as it has taught me many knew things about product design.
+I have found this project my most rewarding so far as it has taught me many knew things about product design, electronics and programming.
 
