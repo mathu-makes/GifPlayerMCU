@@ -1,6 +1,8 @@
 # GifPlayerMCU
 Gesture Controlled GIF Player [ATSAMD51 APDS-9960]
 
+![GitHub Logo](/images/design-overview.jpg)
+
 I wanted to take on a project that took an idea from concept to prototype. So far I have written most of the code, focusing on logic and userbility.
 I used Adafruit's GIF player example as a starting point and began to build things out from there. As of writing I have a working program written in C++, a custom PCB design + schematic and a custom encloure design. I have just recently began work on a companion app written in Android.
 
@@ -24,4 +26,3 @@ My next steps are to put together a complete prototpye. I am looking into 3D pri
 I have also created a basic bill of materials, using Digikey to source components. 
 
 I have found this project my most rewarding so far as it has taught me many knew things about product design, electronics and programming.
-
